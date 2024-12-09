@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+pandas
+numpy
+scikit-learn
+tqdm
+requests
+python-dotenv

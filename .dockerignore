@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+.git
+.gitignore
+Dockerfile
+.dockerignore
+venv/
+.env
+__pycache__/
+*.py[cod]
+*.so
+!app/mental_health_model/*
+!app/mental_health_tokenizer/*
